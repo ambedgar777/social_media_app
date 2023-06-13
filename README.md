@@ -38,3 +38,14 @@ The profile editing functionality allows users to update their username or bio, 
 The app includes a logout button in the drawer menu for users to securely log out from their accounts.
 Upon logout, users are redirected to the login page, ensuring the privacy and security of their account.
 The app's sleek and modern design enhances the overall user experience, making it visually appealing and intuitive to navigate. The use of Flutter and Dart ensures cross-platform compatibility, allowing the app to run seamlessly on both iOS and Android devices.
+
+![1](https://github.com/ambedgar777/cloth_store_ui/assets/49684285/c5cb9367-7c73-4b60-b15d-8d16ef93d8e9)
+
+
+![2](https://github.com/ambedgar777/cloth_store_ui/assets/49684285/599da89d-e21a-426f-9058-778598b3b3f6)
+
+
+
+
+
+
